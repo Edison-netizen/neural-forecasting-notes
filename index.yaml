@@ -15,4 +15,7 @@ topics:
     - pretraining transfer
     - masking policy
     - sampling-rate mismatch
-
+paper_cards:
+  - papers/dlinear.md
+  - papers/patchtst.md
+  - papers/paper_card_template.md
