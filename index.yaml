@@ -1,0 +1,18 @@
+topics:
+  patch_based_forecasting:
+    - PatchTST
+    - patch length sensitivity
+    - channel independence
+  inverted_transformers:
+    - iTransformer
+    - variable tokens
+    - multivariate correlation
+  linear_baselines:
+    - DLinear
+    - NLinear
+    - trend and seasonality bias
+  foundation_models:
+    - pretraining transfer
+    - masking policy
+    - sampling-rate mismatch
+
